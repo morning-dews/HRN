@@ -28,7 +28,7 @@ Meaning of the arguments:
     
     --dataset: choose dataset for experiments
 
-Please cite our paper the code helps you, thanks very much.
+Please cite our paper the code helps you, thanks very much. <br>
 @article{hu2020hrn,
   title={HRN: A Holistic Approach to One Class Learning},
   author={Hu, Wenpeng and Wang, Mengyu and Qin, Qi and Ma, Jinwen and Liu, Bing},
