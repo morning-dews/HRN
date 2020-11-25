@@ -11,13 +11,21 @@ Some important packages' versions are as follow:
 ------
 You can run our code on MNIST directly by this instruction "python3 main.py". 
 Meaning of the arguments:
+
     --max_epochs: the number of epochs of training
+
     --batch_size: the size of the batches
+    
     --lr: the learning rate of the adam optimizer
+    
     --n_cpu: the number of cpu threads to use during batch generation
+    
     --img_size: the lenth of input image vectors (eg. mnist is 28*28=784)
+    
     --num_classes: the number of classes of the dataset
+    
     --gpu: choose whether to use gpu
+    
     --dataset: choose dataset for experiments
 
 Please cite our paper the code helps you, thanks very much.
