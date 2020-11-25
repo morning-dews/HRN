@@ -3,9 +3,9 @@ Code for NeurIPS paper: "HRN: A Holistic Approach to One Class Learning"
 
 ## Prerequisites
 ------
-Some important packages' versions are as follow:
-    scikit-learn == 0.21.3
-    torch == 1.2.0
+Some important packages' versions are as follow:<br>
+    scikit-learn == 0.21.3<br>
+    torch == 1.2.0<br>
 
 ## Usage
 ------
