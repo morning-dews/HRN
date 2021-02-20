@@ -46,7 +46,7 @@ i = 0
 
 def calc_gradient_penalty(netD, real_data, fake_data):
     BATCH_SIZE = real_data.shape[0]
-    if real_data.dim == 2:
+    if real_data.dim() == 2:
         alpha = torch.rand(BATCH_SIZE, 1)
     else:
         alpha = torch.rand(BATCH_SIZE, 1, 1)
